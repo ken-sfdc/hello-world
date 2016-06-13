@@ -1,2 +1,3 @@
 # hello-world
-Exercise
+
+I love learning and GitHub is cool.
